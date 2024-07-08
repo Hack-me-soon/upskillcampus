@@ -6,6 +6,7 @@ This project involves predicting the Remaining Useful Life (RUL) of a turbofan e
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Links](#Links)
 - [Libraries and Initial Setup](#libraries-and-initial-setup)
 - [Data Loading](#data-loading)
 - [Data Inspection and Cleaning](#data-inspection-and-cleaning)
@@ -18,6 +19,10 @@ This project involves predicting the Remaining Useful Life (RUL) of a turbofan e
 ## Introduction
 
 Predicting the Remaining Useful Life (RUL) of machinery is critical in industries such as aerospace, manufacturing, and automotive. Accurate RUL predictions can help in proactive maintenance scheduling, reducing downtime, and avoiding catastrophic failures. This project utilizes turbofan engine data to develop and evaluate a machine learning model for RUL prediction.
+
+## Links
+
+- **Project Code Link** https://github.com/Hack-me-soon/upskillcampus/blob/main/Turbofan_Life_Prediction.ipynb
 
 ## Libraries and Initial Setup
 
