@@ -1,5 +1,3 @@
-# Turbofan_Life_Prediction
-
 # Turbofan Engine Remaining Useful Life Prediction
 
 This project involves predicting the Remaining Useful Life (RUL) of a turbofan engine using various machine learning techniques. The data used in this project is sourced from the NASA Prognostics Data Repository.
