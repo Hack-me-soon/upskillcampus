@@ -100,4 +100,4 @@ This project on predicting the Remaining Useful Life (RUL) of a turbofan engine 
 6. **Learning and Growth:**
    - This project has been one of the greatest learning experiences of my journey with Upskill Campus. The structured approach to problem-solving and the emphasis on practical applications have significantly enhanced my data science and machine learning skills.
 
-I am proud to have successfully completed this project and am grateful for the guidance and resources provided by Upskill Campus. The knowledge and skills gained through this project will undoubtedly be valuable in my future endeavors in the field of data science and machine learning.
+I am thrilled to have successfully finished this project and deeply appreciative of the guidance and resources provided by Upskill Campus. The insights and expertise I’ve gained will be applicable as I continue to advance in the field of data science and machine learning
